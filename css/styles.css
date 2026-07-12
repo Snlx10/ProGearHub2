@@ -58,7 +58,7 @@ nav a:hover {
     padding: 100px 20px;
     display: flex;
     flex-direction: column;
-    justify-content: center 50%;
+    justify-content: center ;
     text-align: center;
     color: white;
     background-color: #102a43;
@@ -69,7 +69,7 @@ nav a:hover {
         ),
         url("../images/Football1.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: center 35%;
     background-repeat: no-repeat;
 }
 
