@@ -114,3 +114,54 @@ footer {
         font-size: 28px;
     }
 }
+
+.page-content {
+    max-width: 900px;
+    margin: auto;
+    padding: 50px 20px;
+}
+
+.page-content section {
+    margin-bottom: 25px;
+    padding: 20px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+form {
+    max-width: 600px;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #999999;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    margin-top: 20px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #e76f51;
+    color: white;
+    cursor: pointer;
+}
+
+.page-content article {
+    margin-bottom: 25px;
+    padding: 20px;
+    background-color: #f3f4f6;
+    border-radius: 5px;
+}
