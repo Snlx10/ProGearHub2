@@ -165,3 +165,32 @@ button {
     background-color: #f3f4f6;
     border-radius: 5px;
 }
+
+.page-content {
+    max-width: 900px;
+    margin: auto;
+    padding: 50px 20px;
+}
+
+.page-content h2 {
+    text-align: center;
+    font-size: 32px;
+}
+
+.page-content > p {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.page-content section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    background-color: #f8fafc;
+}
+
+.page-content section h3 {
+    margin-top: 0;
+    color: #1d3557;
+}
