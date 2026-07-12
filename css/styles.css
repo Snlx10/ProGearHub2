@@ -49,15 +49,16 @@ nav a:hover {
     padding: 100px 20px;
     text-align: center;
     color: white;
-    background:
+    background-image:
         linear-gradient(
-            rgba(16, 42, 67, 0.82),
-            rgba(16, 42, 67, 0.82)
+            rgba(16, 42, 67, 0.75),
+            rgba(16, 42, 67, 0.75)
         ),
-        url("images/Football1.jpg");
+        url("../images/Football1.jpg");
 
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 .hero h2 {
